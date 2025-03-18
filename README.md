@@ -27,4 +27,4 @@ HTML & CSS – Builds the extension's popup UI
 
 1. **Download or Clone** this repository:  
    ```sh
-   git clone https://github.com/yourusername/chrome-color-changer.git
+   git clone https://github.com/tsandaruwn/chrome-color-changer.git
